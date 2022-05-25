@@ -1,0 +1,2 @@
+# ProjektADS_MaskDetector_Gruppe13
+Projektarbeit Applied Data Science
